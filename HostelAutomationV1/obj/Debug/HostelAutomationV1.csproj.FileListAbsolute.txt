@@ -1,0 +1,10 @@
+D:\Çalışmalar\GitHub\HostelAutomation\HostelAutomationV1\bin\Debug\HostelAutomationV1.exe.config
+D:\Çalışmalar\GitHub\HostelAutomation\HostelAutomationV1\bin\Debug\HostelAutomationV1.exe
+D:\Çalışmalar\GitHub\HostelAutomation\HostelAutomationV1\bin\Debug\HostelAutomationV1.pdb
+D:\Çalışmalar\GitHub\HostelAutomation\HostelAutomationV1\obj\Debug\HostelAutomationV1.csproj.AssemblyReference.cache
+D:\Çalışmalar\GitHub\HostelAutomation\HostelAutomationV1\obj\Debug\HostelAutomationV1.Form1.resources
+D:\Çalışmalar\GitHub\HostelAutomation\HostelAutomationV1\obj\Debug\HostelAutomationV1.Properties.Resources.resources
+D:\Çalışmalar\GitHub\HostelAutomation\HostelAutomationV1\obj\Debug\HostelAutomationV1.csproj.GenerateResource.cache
+D:\Çalışmalar\GitHub\HostelAutomation\HostelAutomationV1\obj\Debug\HostelAutomationV1.csproj.CoreCompileInputs.cache
+D:\Çalışmalar\GitHub\HostelAutomation\HostelAutomationV1\obj\Debug\HostelAutomationV1.exe
+D:\Çalışmalar\GitHub\HostelAutomation\HostelAutomationV1\obj\Debug\HostelAutomationV1.pdb
